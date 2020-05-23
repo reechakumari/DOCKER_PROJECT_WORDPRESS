@@ -65,7 +65,7 @@ docker-compose
   *cross check for containers - we can see both container are running*
   >docker ps
  
-- Here our environment is ready to use. Use system IP and port 8081 to use WordPress
+- Here our environment is ready to use. Use system IP and port 8080 to use WordPress
 
 # Conclusion:
 - This all set up environment is ready to use whenever we want and is is portable also that means we can share our pre-created all set, ready to go environment with anyone.
